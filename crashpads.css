@@ -1,0 +1,21 @@
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top:20%;
+    left: 0;
+    width: 100%;
+}
+
+.headermargin {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.listpadding {
+  padding-left: 150px;
+}
